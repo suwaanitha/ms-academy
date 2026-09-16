@@ -9,3 +9,4 @@ Contact: Suwaanitha, 075 153 5938. Direct phone links connect visitors with the 
 Content is based on the supplied poster. Venue, tuition fees, and exact timetables are enquiry-only. Religion is described as bilingual alongside the English-medium offering. No email, invented credentials, or testimonials are included. The three original AI-generated photographs illustrate learning scenarios and do not depict actual academy students or staff.
 
 Colors: forest green #153f35, warm cream #f8f7f2, muted gold #d9bc70. Fonts have local fallbacks if Google Fonts cannot load.
+# ms-academy
